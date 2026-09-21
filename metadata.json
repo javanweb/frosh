@@ -1,0 +1,6 @@
+{
+  "name": "Kavir Baspar Sales CRM",
+  "description": "سیستم جامع و هوشمند مدیریت بازاریابی و فروش حضوری کویر بسپار - اسکلت اصلی UI/UX و معماری ارتباط صفحات",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
